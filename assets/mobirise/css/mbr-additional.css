@@ -475,6 +475,10 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box3-a .mbr-section-title,
+#msg-box3-a p {
+  color: #000;
+}
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
   color: #fff;
